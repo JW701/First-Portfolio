@@ -1,0 +1,15 @@
+/* CSS code for the footer */
+footer {
+    background-color:burlywood;
+    color: maroon;
+    padding: 0.5em;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+}
+
+.footer .container {
+    max-width: 1200px;
+    margin: 0;
+}
+

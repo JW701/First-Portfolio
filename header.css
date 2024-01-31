@@ -1,0 +1,33 @@
+.header {
+    background-color:burlywood;
+    color:maroon;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header{
+    position: sticky;
+    top: 0;
+}
+
+.navigation_container {
+    display: flex;
+}
+
+.navigation_links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.link_item {
+    margin-right: 15px;
+}
+
+.link_name {
+    text-decoration: none;
+    color: #ffffff; 
+    font-weight: bold;
+}
