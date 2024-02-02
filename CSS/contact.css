@@ -1,0 +1,17 @@
+section#contact {
+    padding: 20px;
+    margin: auto;
+    background-color: darkblue;
+}
+
+section#contact h2 {
+    color: aquamarine;
+}
+
+section#contact p {
+    color: aquamarine;
+}
+
+section#contact a {
+    color: greenyellow;
+}

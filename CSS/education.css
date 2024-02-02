@@ -1,0 +1,18 @@
+section#education {
+    padding: 20px;
+    margin: auto;
+    background-color: darkgreen;
+}
+
+section#education h2 {
+    color:aquamarine;
+}
+
+section#education ul {
+    list-style:square;
+    padding: 0;
+}
+
+section#education li {
+    color:aquamarine;
+}

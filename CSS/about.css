@@ -1,0 +1,13 @@
+section#about {
+    padding: 20px;
+    background-color:indigo;
+    margin: auto;
+}
+
+section#about h2 {
+    color: aquamarine;
+}
+
+section#about p {
+    color:aquamarine;
+}

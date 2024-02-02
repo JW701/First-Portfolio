@@ -1,0 +1,18 @@
+section#skills {
+    padding: 20px;
+    margin: auto;
+    background-color: darkmagenta;
+}
+
+section#skills h2 {
+    color: aquamarine;
+}
+
+section#skills ul {
+    list-style:square;
+    padding: 0;
+}
+
+section#skills li {
+    color: aquamarine;
+}

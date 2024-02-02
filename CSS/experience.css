@@ -1,0 +1,13 @@
+section#experience {
+    padding: 20px;
+    margin: auto;
+    background-color: darkred;
+}
+
+section#experience h2 {
+    color: aquamarine;
+}
+
+section#experience p {
+    color: aquamarine;
+}
